@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=xyoo687froY
 
 https://raw.githubusercontent.com/RodrigoMvs123/Learn-CSS-box-model-build-a-Rothko-painting-freeCodeCamp-Curriculum/main/README.md
 
-
+https://github.com/RodrigoMvs123/Learn-CSS-box-model-build-a-Rothko-painting-freeCodeCamp-Curriculum/blame/main/README.md
 
 Visual Studio Code
 EXPLORER 
