@@ -1,4 +1,5 @@
-# Learn-CSS-box-model-build-a-Rothko-painting-freeCodeCamp-Curriculum
+
+## Learn-CSS-box-model-build-a-Rothko-painting-freeCodeCamp-Curriculum
 
 https://www.youtube.com/watch?v=xyoo687froY  
 
@@ -6,6 +7,8 @@ https://raw.githubusercontent.com/RodrigoMvs123/Learn-CSS-box-model-build-a-Roth
 
 https://github.com/RodrigoMvs123/Learn-CSS-box-model-build-a-Rothko-painting-freeCodeCamp-Curriculum/blame/main/README.md
 
+## Source Code 
+```html
 Visual Studio Code
 EXPLORER 
 OPEN EDITORS 
@@ -24,7 +27,9 @@ index.html
         <div className="canvas"></div>
     </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER 
 OPEN EDITORS 
@@ -33,7 +38,9 @@ index.html
 styles.css
 
 styles.css
+```
 
+```html
 Visual Studio Code
 EXPLORER 
 OPEN EDITORS 
@@ -54,7 +61,9 @@ index.html
         <div className="canvas"></div>
     </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER 
 OPEN EDITORS 
@@ -68,7 +77,9 @@ styles.css
     height: 600px;
     background-color: #4d0f00;
 }
+```
 
+```html
 Visual Studio Code
 EXPLORER 
 OPEN EDITORS 
@@ -91,7 +102,9 @@ index.html
         </div>
     </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER 
 OPEN EDITORS 
@@ -112,8 +125,9 @@ styles.css
     padding: 50px;
     margin: 20px auto;
 }
+```
 
-Visual Studio Code
+```Visual Studio Code
 EXPLORER 
 OPEN EDITORS 
 css-rothko
@@ -137,7 +151,9 @@ index.html
         </div>
     </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER 
 OPEN EDITORS 
@@ -166,7 +182,9 @@ styles.css
     background-color: #efb762;
     margin: 20px auto;
 }
+```
 
+```html
 Visual Studio Code
 EXPLORER 
 OPEN EDITORS 
@@ -192,7 +210,9 @@ index.html
         </div>
     </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER 
 OPEN EDITORS 
@@ -228,7 +248,9 @@ styles.css
     background-color: #8f0401;
     margin: auto;
 }
+```
 
+```html
 Visual Studio Code
 EXPLORER 
 OPEN EDITORS 
@@ -255,7 +277,9 @@ index.html
         </div>
     </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER 
 OPEN EDITORS 
@@ -313,4 +337,4 @@ styles.css
 .one, .two {
     filter: blur(1px);
 }
-
+```
